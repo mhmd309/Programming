@@ -1,0 +1,41 @@
+/* Start About Us */
+.bread {background-color:#f5f5f5}
+.bread .breadcrumb {margin:0;padding:10px 0;font-size:16px}
+/******************************/
+.about-us {padding:70px 0}
+.about-us h1 {font-family:'Raleway';font-weight:900;letter-spacing:-3px;font-size:65px}
+.about-us hr {width:80%}
+/***********************************/
+.about-features {padding-top:0;padding-bottom:70px}
+.about-features .about-feat {margin-bottom:20px}
+.about-features h3 {font-size:30px;font-family:'Raleway';font-weight:900;margin-bottom:15px;letter-spacing:-1px}
+.about-features p {font-size:14px;line-height:1.5}
+/***************************************************/
+.about-ceo {background-color:#eee;padding-top:40px}
+.about-ceo .ceo h2 {font-family:'Raleway';font-weight:900;margin-bottom:15px;letter-spacing:-1px}
+.about-ceo .ceo p {line-height:1.8}
+.about-ceo .ceo .btn-primary {background-color:#333;border-color:#333;margin-bottom:20px;display:inline-block}
+/* End About Us */
+/* Start FAQ */
+.faq {padding:70px 0  50px}
+.faq h1 {font-family:'Raleway';font-weight:900;letter-spacing:-3px;font-size:65px}
+.faq h1 ~ hr {width:80%}
+
+.faq-questions .panel-heading {padding:20px 15px;border-radius:0}
+.faq-questions .panel-heading a:after {
+    font-family:"Glyphicons Halflings";
+    float:right;
+    color:#999;
+    content:"\e114"
+}
+.faq-questions .panel-heading a.collapsed:after {color:#000;content:"\e080"}
+.faq-questions .panel {box-shadow:none}
+.faq-questions .panel-default {border-color:#ddd}
+.faq-questions .panel-body {padding:15px;font-size:16px;color:#000}
+.faq-questions .panel-title {margin-top:5px;margin-bottom:5px;font-size:17px}
+.faq-questions .panel-group {margin-bottom:50px}
+.faq-questions .panel-group .panel {margin-bottom:17px;border-radius:0;border:1px solid #efefef}
+.faq-questions .panel-default > .panel-heading {color:#000;background-color:#f5f5f5;border-color:#000}
+.faq-questions  a:hover, a:focus {outline:none;text-decoration:none}
+.faq-questions .panel-group .panel-heading + .panel-collapse > .panel-body {border:0}
+/* End FAQ */ 

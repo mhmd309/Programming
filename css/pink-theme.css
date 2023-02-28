@@ -1,0 +1,53 @@
+/* Start Default Theme */
+
+.option-box .color-option,
+.testimonials .carousel-indicators li.active {
+    border: 4px solid #e86ed0;
+}
+
+.option-box .gear-check,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.carousel-control .glyphicon-chevron-left,
+.carousel-control .glyphicon-chevron-right,
+.carousel-control .icon-prev,
+.carousel-control .icon-next,
+.subscribe .btn-danger,
+.subscribe .btn-danger:hover,
+.contact-us .btn-danger,
+.contact-us .btn-danger:hover,
+.contact-us .btn-danger:focus,
+.dropdown-menu .divider,
+#scroll-top {
+    background-color: #e86ed0
+}
+
+.navbar-inverse .navbar-brand span,
+.about h1 span,
+.testimonials span,
+.footer h3,
+.footer .copyright span,
+.contact-us input[type="text"],
+.contact-us textarea {
+    color: #e86ed0
+}
+
+.navbar-inverse .navbar-collapse,
+.navbar-inverse,
+.navbar-inverse .navbar-toggle,
+.subscribe .btn-danger,
+.subscribe .btn-danger:hover {
+    border-color: #e86ed0
+}
+
+.dropdown-menu {
+    border-top: 2px solid #e86ed0
+}
+.bubble-float-top:before {
+    border-color:transparent transparent #e86ed0 transparent
+}
+/* End Default Theme */
