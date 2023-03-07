@@ -1,15 +1,5 @@
 $(document).ready(function () {
 
-    //Nice Scroll
-    $("html").niceScroll({
-        cursorcolor: "#E41B17",
-        cursorwidth: "7px",
-        cursorheight: "30px",
-        background: "none",
-        cursorborder: 0,
-        cursorborderradius: 0
-    });
-
     //Carousal
     $('.carousel').carousel({
 
